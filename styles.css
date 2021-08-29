@@ -1,0 +1,32 @@
+body {
+  background-color: #e3fdfd;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 0%;
+  width: 20%;
+  border-width: 8px;
+  border-color: #71c9ce;
+}
+h1 {
+  color: #7c83fd;
+}
+h2 {
+  color: #7c83fd;
+}
+h4 {
+  color: #7c83fd;
+}
+.face:hover {
+  background-color: #96baff;
+}
+.sports:hover {
+  background-color: gold;
+}
+.chess:hover {
+  background-color: white;
+}
+a:hover {
+  background-color: #7dedff;
+}
